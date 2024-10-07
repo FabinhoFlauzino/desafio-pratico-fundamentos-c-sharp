@@ -1,0 +1,14 @@
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.exe
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.deps.json
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.runtimeconfig.json
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.pdb
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.AssemblyInfoInputs.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.AssemblyInfo.cs
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.csproj.CoreCompileInputs.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\refint\ContandoCaracteres.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.pdb
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.genruntimeconfig.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\ContandoCaracteres\obj\Debug\net8.0\ref\ContandoCaracteres.dll

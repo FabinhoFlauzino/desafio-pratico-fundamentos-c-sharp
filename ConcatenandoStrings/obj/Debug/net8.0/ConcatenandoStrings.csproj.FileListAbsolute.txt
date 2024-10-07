@@ -1,0 +1,14 @@
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\bin\Debug\net8.0\ConcatenandoStrings.exe
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\bin\Debug\net8.0\ConcatenandoStrings.deps.json
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\bin\Debug\net8.0\ConcatenandoStrings.runtimeconfig.json
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\bin\Debug\net8.0\ConcatenandoStrings.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\bin\Debug\net8.0\ConcatenandoStrings.pdb
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\ConcatenandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\ConcatenandoStrings.AssemblyInfoInputs.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\ConcatenandoStrings.AssemblyInfo.cs
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\ConcatenandoStrings.csproj.CoreCompileInputs.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\ConcatenandoStrings.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\refint\ConcatenandoStrings.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\ConcatenandoStrings.pdb
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\ConcatenandoStrings.genruntimeconfig.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\ConcatenandoStrings\obj\Debug\net8.0\ref\ConcatenandoStrings.dll

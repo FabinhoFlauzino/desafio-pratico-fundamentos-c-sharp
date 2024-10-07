@@ -1,0 +1,14 @@
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\bin\Debug\net8.0\SomandoValores.exe
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\bin\Debug\net8.0\SomandoValores.deps.json
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\bin\Debug\net8.0\SomandoValores.runtimeconfig.json
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\bin\Debug\net8.0\SomandoValores.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\bin\Debug\net8.0\SomandoValores.pdb
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\SomandoValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\SomandoValores.AssemblyInfoInputs.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\SomandoValores.AssemblyInfo.cs
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\SomandoValores.csproj.CoreCompileInputs.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\SomandoValores.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\refint\SomandoValores.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\SomandoValores.pdb
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\SomandoValores.genruntimeconfig.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\SomandoValores\obj\Debug\net8.0\ref\SomandoValores.dll

@@ -1,0 +1,14 @@
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\Mensagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\Mensagem.AssemblyInfoInputs.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\Mensagem.AssemblyInfo.cs
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\Mensagem.csproj.CoreCompileInputs.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\bin\Debug\net8.0\Mensagem.exe
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\bin\Debug\net8.0\Mensagem.deps.json
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\bin\Debug\net8.0\Mensagem.runtimeconfig.json
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\bin\Debug\net8.0\Mensagem.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\bin\Debug\net8.0\Mensagem.pdb
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\Mensagem.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\refint\Mensagem.dll
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\Mensagem.pdb
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\Mensagem.genruntimeconfig.cache
+D:\gaveta\c-sharp\rocketseat\Exercicios\Mensagem\obj\Debug\net8.0\ref\Mensagem.dll
